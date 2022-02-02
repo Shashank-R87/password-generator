@@ -5,21 +5,23 @@ Install all the modules using requirements.cmd
 
 Window 1(Password Generator):
 
-1)Enter length of password.<br>
-2)Enter 'Y' for including special characters, 'N' for no<br>
-3)Enter the website where you are going to use the password.<br>
-4)Click Generate button.<br>
-5)A QR Code will also be generated in case you need to send the details to your phone.<br>
-6)The password will be copied to the clipboard and can be used wherever needed.(COPIED message will be displayed).<br>
-	NOTE: i)If Generate button is clicked with the first entry empty a message will be shown(length of password must be atleast 4),
-	        if any other entry is empty, it would not display any message and the password will not be generated).<br>
+1. Enter length of password.<br>
+2. Enter 'Y' for including special characters, 'N' for no<br>
+3. Enter the website where you are going to use the password.<br>
+4. Click Generate button.<br>
+5. A QR Code will also be generated in case you need to send the details to your phone.<br>
+6. The password will be copied to the clipboard and can be used wherever needed.(COPIED message will be displayed).<br><br>
+
+	NOTE: If Generate button is clicked with the first entry empty a message will be shown(length of password must be atleast 4),<br>
+	      if any other entry is empty, it would not display any message and the password will not be generated).<br>
 	      ii)"Passwords.bin" file will be automatically created, if such file is already found, all the generated passwords will
 		  appended in that file.<br>
-	      iii)Length of the password should be atlest 4, or else no password will be generated.<br>
+	      iii)Length of the password should be atlest 4, or else no password will be generated.
+<br>
 
 --------------------------------------------------------------------------------------------------------------------------------------------
 
-If using the code for te 1st time:<br>
+Using the code for the 1st time?<br>
     When "Show Passwords" button is clicked a new window(Sign Up) will pop up asking to enter password which will be encrypted and saved.<br>
 
 -------------------------------------------------------------------------------------------------------------------------------------------
