@@ -27,7 +27,7 @@ Using the code for the 1st time?<br>
 -------------------------------------------------------------------------------------------------------------------------------------------
 
 When the button is clicked again a window(Log In) will pop up asking for the password.The password entered in the 'Sign Up' window should
-be entered to view the passwords.
+be entered to view the passwords.<br>
 
 -------------------------------------------------------------------------------------------------------------------------------------------
 
