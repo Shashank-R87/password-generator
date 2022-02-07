@@ -1,7 +1,8 @@
 # Password Generator
 
-### Install all the modules using requirements.cmd
 --------------------------------------------------------------------------------------------------------------------------------------------
+
+Install all the modules using requirements.cmd
 
 Window 1(Password Generator):<br><br>
 
@@ -12,11 +13,11 @@ Window 1(Password Generator):<br><br>
 5. A QR Code will also be generated in case you need to send the details to your phone.<br>
 6. The password will be copied to the clipboard and can be used wherever needed.(COPIED message will be displayed).<br><br>
 
-	NOTE: 1. If Generate button is clicked with the first entry empty a message will be shown(length of password must be atleast 4),
-	         if any other entry is empty, it would not display any message and the password will not be generated).
-	      2. "Passwords.bin" file will be automatically created, if such file is already found, all the generated passwords will
-		  appended in that file.
-	      3. Length of the password should be atlest 4, or else no password will be generated.
+NOTE: 1. If Generate button is clicked with the first entry empty a message will be shown(length of password must be atleast 4),
+	 if any other entry is empty, it would not display any message and the password will not be generated).
+      2. "Passwords.bin" file will be automatically created, if such file is already found, all the generated passwords will
+	  appended in that file.
+      3. Length of the password should be atlest 4, or else no password will be generated.
 <br>
 
 --------------------------------------------------------------------------------------------------------------------------------------------
